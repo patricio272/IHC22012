@@ -31,7 +31,7 @@
           <div class="span12">
             <h3>Acerca de</h3>
             <p>
-                Sistema para el diálogo remoto es una aplicación de <a href="http://opensource.org/docs/osd" target="_blank">código abierto</a> desarrollada
+                Sistema para el diálogo remoto es una aplicación de <a href="http://suite101.net/article/open-source-software-de-codigo-abierto-a23447" target="_blank">código abierto</a> desarrollada
                 como producto de un proyecto de migración, en el contexto del trabajo de titulación
                 del alumno Cristian Alberto Chávez Ramos, para la carrera de Ingeniería de Ejecución en
                 Computación e Informática de la Universidad de Santiago de Chile.
