@@ -96,9 +96,20 @@
                     				</tr>
                   			</thead>
                   			<tbody>
+                          <!--
                     				<tr class="error">
                       					<td>No hay reglas disponibles</td>
                     				</tr>
+                          -->
+                          <tr>
+                                <td><a href="#">Regla 1</a></td>
+                            </tr>
+                            <tr>
+                                <td><a href="#">Regla 2</a></td>
+                            </tr>
+                            <tr>
+                                <td><a href="#">Regla 3</a></td>
+                            </tr>
                  		 	</tbody>
 					<!--En caso de haber reglas se debe revizar escribir las reglas pertinentes con un arreglo-->
                			 </table>
