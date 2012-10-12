@@ -45,11 +45,12 @@
     <table class="table table-striped table-bordered">
           <thead>
             <tr>
-              <th>Título</th>
-              <th>Autor</th>
-              <th>Publicación</th>
-              <th>Última intervención</th>
-              <th>Estado</th>
+              <th width="25%">Título</th>
+              <th width="12%">Autor</th>
+              <th width="15%">Publicación</th>
+              <th width="18%">Última intervención</th>
+              <th width="15%">Estado</th>
+              <th width="15%"> <span class="help-block"> Visible solo para el Administrador</span></td> </th>
               
             </tr>
           </thead>
@@ -60,6 +61,7 @@
               <td>04-09-2012</td>
               <td>23-09-2012</td>
               <td><span class="label label-important">Desbalanceado</span></td>
+              <td><button class="btn btn-block btn-small btn-danger"> Eliminar</button>
               
             </tr>
             <tr>
@@ -68,6 +70,7 @@
               <td>04-09-2012</td>
               <td>23-09-2012</td>
               <td><span class="label label-success">Balanceado</span></td>
+              <td><button class="btn btn-block btn-small btn-danger"> Eliminar</button></td>
              
             </tr>
             <tr>
@@ -76,6 +79,7 @@
               <td>04-09-2012</td>
               <td>23-09-2012</td>
               <td><span class="label label-success">Balanceado</span></td>
+              <td><button class="btn btn-block btn-small btn-danger"> Eliminar</button></td>
               
             </tr>
           </tbody>
