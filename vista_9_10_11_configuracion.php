@@ -92,13 +92,23 @@
 				<table class="table table-striped table-bordered">
                   			<thead>
                     				<tr>
-                      					<th>Regla</th>
+                      					<th width="85%">Regla</th>
+                                <th width="15%"> </th>
                     				</tr>
                   			</thead>
                   			<tbody>
-                    				<tr class="error">
-                      					<td>No hay reglas disponibles</td>
+                    				<tr>
+                      					<td><a href="#">Reglar 1</a></td>
+                                <td><button class="btn btn-block btn-small btn-danger"> Eliminar</button></td>
                     				</tr>
+                            <tr>
+                                <td><a href="#">Reglar 2</a></td>
+                                <td><button class="btn btn-block btn-small btn-danger"> Eliminar</button></td>
+                            </tr>
+                            <tr>
+                                <td><a href="#">Reglar 3</a></td>
+                                <td><button class="btn btn-block btn-small btn-danger"> Eliminar</button></td>
+                            </tr>
                  		 	</tbody>
 					<!--En caso de haber reglas se debe revizar escribir las reglas pertinentes con un arreglo-->
                			 </table>
