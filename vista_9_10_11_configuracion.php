@@ -97,6 +97,7 @@
                     				</tr>
                   			</thead>
                   			<tbody>
+<<<<<<< HEAD
                     				<tr>
                       					<td><a href="#">Reglar 1</a></td>
                                 <td><button class="btn btn-block btn-small btn-danger"> Eliminar</button></td>
@@ -108,6 +109,21 @@
                             <tr>
                                 <td><a href="#">Reglar 3</a></td>
                                 <td><button class="btn btn-block btn-small btn-danger"> Eliminar</button></td>
+=======
+                          <!--
+                    				<tr class="error">
+                      					<td>No hay reglas disponibles</td>
+                    				</tr>
+                          -->
+                          <tr>
+                                <td><a href="#">Regla 1</a></td>
+                            </tr>
+                            <tr>
+                                <td><a href="#">Regla 2</a></td>
+                            </tr>
+                            <tr>
+                                <td><a href="#">Regla 3</a></td>
+>>>>>>> 522e2bf7be8fd0784ee56cda5d287cebdc4f1c14
                             </tr>
                  		 	</tbody>
 					<!--En caso de haber reglas se debe revizar escribir las reglas pertinentes con un arreglo-->
